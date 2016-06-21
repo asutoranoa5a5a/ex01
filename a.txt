@@ -1,1 +1,5 @@
 初めてのgithub
+git clone
+git status
+git add
+git commit -m ""
